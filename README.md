@@ -7,7 +7,7 @@ You have csv files where all data available and you want to process csv data and
 
 Before Spring batch, developers was getting one by one record and inserting into db one by one that is very slow process.
 
-# Classes and Interfaces in Spring Batch
+# Components in Spring Batch
 
 # Job Launcher
 It is an interface and it launch/begin the Spring batch job
