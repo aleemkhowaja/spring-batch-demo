@@ -32,5 +32,8 @@ It is important to manage the state of data if there is large volume of records.
  # 3 - ItemWriter ---- Destination 
      This is detination where data will be dump/exported like database, csv.
      
+     ![image](https://user-images.githubusercontent.com/11464125/164982909-a1e4ade1-89cc-46db-adc5-15d35fe80ff6.png)
+
+     
      
 
